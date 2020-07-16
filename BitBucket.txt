@@ -1,0 +1,18 @@
+JDK1.8
+Scala 2.12
+
+Third Party Dependencies:
+--------------------------
+spark-core.jar  Upload maven repo
+spark-sql.jar  
+cassandra-connector.jar  
+
+
+Browser -> 
+Part I (HTML,Angular JS)  -> Backend 
+UI Clinet   ->               Server SpringBoot + Java  -> DB.
+
+save
+update
+delete
+select
